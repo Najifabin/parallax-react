@@ -1,0 +1,21 @@
+#textBlock{
+    background-color: #210002;
+    height: 100vh;
+}
+#textblockContainer{
+    width: 50%;
+    margin: 0 auto;
+    padding-top: 70px;
+}
+.title{
+    color: #ffaf1b;
+    font-size: 35px;
+    font-weight: 600;
+    font-family: Helvetica, sans-serif;
+    text-align: left;
+}
+.content{
+    color: #ffaf1b;
+    font-size: 20px;
+    text-align: left;
+}
